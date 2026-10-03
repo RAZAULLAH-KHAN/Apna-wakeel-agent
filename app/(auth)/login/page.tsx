@@ -127,9 +127,9 @@ export default function LoginPage() {
                 setEmail('demo@apnawakil.ai');
                 setPassword('Password123!');
               }}
-              className="w-full py-2 px-3 rounded-lg border border-dashed border-teal-400 bg-teal-50/60 hover:bg-teal-50 text-teal-800 text-xs font-semibold flex items-center justify-center gap-1.5 transition-colors"
+              className="w-full py-2 px-3 rounded-lg border border-teal-300 bg-teal-50/60 hover:bg-teal-50 text-teal-800 text-xs font-semibold flex items-center justify-center gap-1.5 transition-colors"
             >
-              <span>🚀 {isUrdu ? 'ڈیمو اکاؤنٹ سے خودکار لاگ ان کریں' : 'Quick Demo: Fill Test Account'}</span>
+              <span>{isUrdu ? 'ڈیمو اکاؤنٹ سے خودکار لاگ ان کریں' : 'Demo Account (Auto-fill)'}</span>
             </button>
             <div className="text-[11px] text-center text-gray-400 mt-1 font-mono">
               demo@apnawakil.ai / Password123!
