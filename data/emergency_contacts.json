@@ -1,0 +1,99 @@
+[
+  {
+    "id": "police-15",
+    "name": "Police Emergency Helpline",
+    "name_ur": "پولیس ایمرجنسی ہیلپ لائن",
+    "number": "15",
+    "display_number": "15",
+    "category": "police",
+    "description": "Immediate police assistance across Pakistan for emergencies, crimes in progress, or immediate threats.",
+    "description_ur": "کسی بھی ہنگامی صورتحال، جرم یا فوری خطرے کی صورت میں فوری پولیس مدد۔",
+    "urgency": "critical",
+    "hours": "24/7"
+  },
+  {
+    "id": "fia-cybercrime",
+    "name": "FIA Cyber Crime Wing (NR3C)",
+    "name_ur": "ایف آئی اے سائبر کرائم ونگ",
+    "number": "1991",
+    "display_number": "1991",
+    "category": "cyber",
+    "description": "National Cyber Crime helpline for reporting blackmail, non-consensual photo sharing, extortion, and cyber harassment.",
+    "description_ur": "بلیک میلنگ، غیر اخلاقی مواد، بھتہ خوری اور آن لائن ہراسانی کی شکایت درج کروانے کے لیے۔",
+    "urgency": "high",
+    "hours": "24/7",
+    "website": "https://complaint.fia.gov.pk"
+  },
+  {
+    "id": "women-helpline-punjab",
+    "name": "Punjab Women Protection Helpline",
+    "name_ur": "پنجاب خواتین تحفظ ہیلپ لائن",
+    "number": "1043",
+    "display_number": "1043",
+    "category": "women",
+    "description": "Toll-free helpline for women facing workplace harassment, domestic abuse, stalking, and legal advice in Punjab.",
+    "description_ur": "خواتین پر تشدد، دفاتر میں ہراسانی، گھریلو تشدد اور قانونی رہنمائی کے لیے مفت ہیلپ لائن۔",
+    "urgency": "high",
+    "hours": "24/7"
+  },
+  {
+    "id": "women-helpline-sindh",
+    "name": "Sindh Women Development Helpline",
+    "name_ur": "سندھ ویمن ہیلپ لائن",
+    "number": "1094",
+    "display_number": "1094",
+    "category": "women",
+    "description": "Helpline for women experiencing abuse, harassment, or needing emergency shelter and legal support in Sindh.",
+    "description_ur": "سندھ میں خواتین کے حقوق کے تحفظ، ہراسانی اور قانونی مدد کے لیے۔",
+    "urgency": "high",
+    "hours": "24/7"
+  },
+  {
+    "id": "human-rights-1099",
+    "name": "Ministry of Human Rights Helpline",
+    "name_ur": "وزارت انسانی حقوق ہیلپ لائن",
+    "number": "1099",
+    "display_number": "1099",
+    "category": "general",
+    "description": "Federal helpline providing free legal advice, grievance redressal, and human rights violation reporting.",
+    "description_ur": "انسانی حقوق کی خلاف ورزی اور مفت قانونی مشورے کے لیے وفاقی ہیلپ لائن۔",
+    "urgency": "medium",
+    "hours": "24/7"
+  },
+  {
+    "id": "legal-aid-society",
+    "name": "Legal Aid Society Pakistan",
+    "name_ur": "لیگل ایڈ سوسائٹی ہیلپ لائن",
+    "number": "080070806",
+    "display_number": "0800-70806",
+    "category": "general",
+    "description": "Toll-free legal advice for vulnerable citizens, unfair detentions, and court procedure assistance.",
+    "description_ur": "کمزور شہریوں، غیر قانونی حراست اور عدالتی طریقہ کار کے لیے مفت قانونی معاونت۔",
+    "urgency": "medium",
+    "hours": "Mon-Sat 9AM-5PM"
+  },
+  {
+    "id": "anti-corruption-nab",
+    "name": "NAB Anti-Corruption Helpline",
+    "name_ur": "نیب اینٹی کرپشن ہیلپ لائن",
+    "number": "111622622",
+    "display_number": "0800-NAB-01 / 111-622-622",
+    "category": "business",
+    "description": "Reporting bribery, unlawful extortion by government officials, and misuse of public office.",
+    "description_ur": "سرکاری اہلکاروں کی طرف سے رشوت ستانی اور اختیارات کے ناجائز استعمال کی شکایت۔",
+    "urgency": "medium",
+    "hours": "Office Hours"
+  },
+  {
+    "id": "edhi-ambulance",
+    "name": "Edhi Emergency Services",
+    "name_ur": "ایدھی ایمرجنسی ایمبولینس",
+    "number": "115",
+    "display_number": "115",
+    "category": "emergency",
+    "description": "Immediate medical emergency, ambulance service, and accident rescue.",
+    "description_ur": "فوری طبی امداد اور ایمبولینس سروس کے لیے۔",
+    "urgency": "critical",
+    "hours": "24/7"
+  }
+]

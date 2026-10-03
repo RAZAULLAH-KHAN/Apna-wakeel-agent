@@ -1,0 +1,60 @@
+{
+  "appName": "Apna Wakil AI",
+  "appTagline": "Every person deserves a personal lawyer.",
+  "heroHeading": "Your personal lawyer, in your pocket.",
+  "heroSubheading": "Know your rights. Know what to say. Know what to do next. Fast, grounded in Pakistani law, and private to you.",
+  "getStarted": "Get Started Free",
+  "tryWithoutLogin": "Ask Your Question Now",
+  "emergency": "Emergency (15)",
+  "login": "Log in",
+  "signup": "Sign up",
+  "logout": "Log out",
+  "dashboard": "Home",
+  "drafts": "Draft Letters",
+  "history": "History",
+  "settings": "Settings",
+  "categories": {
+    "police": "Police Issue",
+    "business": "Bribe / Extortion",
+    "women": "Women Protection",
+    "cyber": "Cyber Blackmail"
+  },
+  "scenarios": {
+    "policeTitle": "Police Problem",
+    "policeDesc": "Summons without FIR, late night calls, unlawful detention, or search without warrant.",
+    "businessTitle": "Business & Vendors",
+    "businessDesc": "Patrol police or municipal officials demanding cash bribes ('chai pani') or threatening to seal your shop.",
+    "womenTitle": "Women Harassment",
+    "womenDesc": "Street harassment, stalking, threats, workplace abuse, or seeking protective helplines.",
+    "cyberTitle": "Online Blackmail",
+    "cyberDesc": "Threats of leaking private photos, cyber extortion, hacked accounts, and FIA reporting."
+  },
+  "home": {
+    "greeting": "Assalam-o-Alaikum 👋 What is happening?",
+    "promptPlaceholder": "Describe your situation in English, Urdu or Roman Urdu...",
+    "send": "Get Legal Guidance",
+    "quickActions": "Quick Legal Services",
+    "draftLetter": "Draft Legal Letter",
+    "pastChats": "Past Consultations",
+    "emergencyHelplines": "Emergency Numbers"
+  },
+  "agentSteps": {
+    "step1": "Understanding your situation",
+    "step2": "Searching Pakistani statutes (CrPC, PPC, PECA)",
+    "step3": "Synthesizing your Action Brief"
+  },
+  "brief": {
+    "stayCalm": "Stay Calm",
+    "rights": "Your Legal Rights",
+    "whatToDo": "What To Do Right Now",
+    "whatToSay": "Exact Words To Say",
+    "whatNotToDo": "What NOT To Do",
+    "whoToContact": "Who To Contact",
+    "sources": "Pakistani Legal Sources",
+    "copyScript": "Copy Script",
+    "copied": "Copied to clipboard!",
+    "draftComplaint": "Draft Official Application",
+    "viewHelplines": "View All Helplines",
+    "disclaimer": "Apna Wakil AI provides legal information and guidance based on Pakistani law. It is not a licensed advocate and does not create an advocate-client relationship."
+  }
+}
